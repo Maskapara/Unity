@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unicorn", "Assembly-CSharp.csproj", "{4B578F06-261B-0974-5EE4-D4D2A161BEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unicorn", "Assembly-CSharp-Editor-firstpass.csproj", "{9DB0364B-8916-1DA2-AC42-C3906849FEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B578F06-261B-0974-5EE4-D4D2A161BEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B578F06-261B-0974-5EE4-D4D2A161BEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B578F06-261B-0974-5EE4-D4D2A161BEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B578F06-261B-0974-5EE4-D4D2A161BEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB0364B-8916-1DA2-AC42-C3906849FEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB0364B-8916-1DA2-AC42-C3906849FEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB0364B-8916-1DA2-AC42-C3906849FEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB0364B-8916-1DA2-AC42-C3906849FEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
